@@ -1,0 +1,27 @@
+.portfolio-img {
+    border: 2px solid black;
+    max-width: 100%;
+    width: 415px;
+    height: 235px;
+    margin-top: 20px;
+    margin-bottom: 15px;
+  }
+  
+  .description {
+    text-align: center;
+  }
+  
+  .description-github a {
+    text-decoration: none;
+    font-weight: bold;
+    color: black;
+    font-family: 'Shizuru', cursive;
+  }
+  
+  .description-github a:hover {
+    color:rgb(58, 195, 65);
+  }
+  
+  .description-name {
+    font-family: 'Shizuru', cursive;
+  }
