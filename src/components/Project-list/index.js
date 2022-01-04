@@ -1,53 +1,53 @@
 const projects = [
     {
-        name: '',
-        link: '',
-        github: ''
+        name: 'NPS-Camping',
+        link: 'https://foreytkl22.github.io/NPS-Camping/',
+        github: 'https://github.com/ForeytKL22/NPS-Camping'
     },
     {
-        name: '',
-        link: '',
-        github: ''
+        name: 'BootCampBlues',
+        link: 'https://evening-cliffs-89328.herokuapp.com/',
+        github: 'https://github.com/cclund444/bootcampblues'
     },
     {
-        name: '',
-        link: '',
-        github: ''
+        name: 'c05workDayScheduler',
+        link: 'https://cclund444.github.io/c05workDayScheduler/',
+        github: 'https://github.com/cclund444/c05workDayScheduler'
     },
     {
-        name: '',
-        link: '',
-        github: ''
+        name: 'c02codeRefactor',
+        link: 'https://cclund444.github.io/c02codeRefactor/',
+        github: 'https://github.com/cclund444/c02codeRefactor'
     },
     {
-        name: '',
-        link: '',
-        github: ''
+        name: 'c06weatherDashboard',
+        link: 'https://cclund444.github.io/c06weatherDashboard/',
+        github: 'https://github.com/cclund444/c06weatherDashboard'
     },
     {
-        name: '',
-        link: '',
-        github: ''
+        name: 'c03PasswordGenerator',
+        link: 'https://cclund444.github.io/c03passwordgenerator/',
+        github: 'https://github.com/cclund444/c03passwordgenerator'
     },
     {
-        name: '',
-        link: '',
-        github: ''
+        name: 'c04codeQuiz',
+        link: 'https://cclund444.github.io/c04codeQuiz/',
+        github: 'https://github.com/cclund444/c04codeQuiz'
     },
     {
-        name: '',
-        link: '',
-        github: ''
+        name: '10objectOrientedProgramming',
+        link: 'https://cclund444.github.io/10objectOrientedProgramming/',
+        github: 'https://github.com/cclund444/10objectOrientedProgramming'
     },
     {
-        name: '',
-        link: '',
-        github: ''
+        name: 'Run-Buddy',
+        link: 'https://cclund444.github.io/run-buddy/',
+        github: 'https://github.com/cclund444/run-buddy'
     },
     {
-        name: '',
+        name: 'P3FindAShow',
         link: '',
-        github: ''
+        github: 'https://github.com/cclund444/P3FindAShow'
     }
 ];
 
