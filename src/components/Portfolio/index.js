@@ -17,12 +17,10 @@ function Portfolio() {
             <Col xs='12' md='6' lg='4'>                
         
         <a href={items.link} target="_blank">
-            <Image
-                className="portfolio-img"
-                alt={`${items.name} + project`}
-                key={`img_${i}`}
-                src={require(``).default}
-            />
+            <body>
+                img src= {`assets/PP1.jpg`,'assets/PP2.jpg', 'assets/PP3.jpg'}/>
+                <p> Link: https://cclund444.github.io/c02codeRefactor/portfolio.html </p>
+            </body>
         </a>
         <div className="description">
             <div className="description-name">
