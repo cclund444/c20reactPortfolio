@@ -13,7 +13,7 @@ function About() {
               width={171}
               heigh={180}
               alt="Caleb Lund"
-              img src="./assets/1.jpg"
+              img src="./assets/1.jpg" 
             />
           </Figure>
           <p>

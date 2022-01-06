@@ -1,9 +1,9 @@
 const projects = [
-    {
+        {
         name: 'NPS-Camping',
         link: 'https://foreytkl22.github.io/NPS-Camping/',
         github: 'https://github.com/ForeytKL22/NPS-Camping'
-    },
+    },   
     {
         name: 'BootCampBlues',
         link: 'https://evening-cliffs-89328.herokuapp.com/',
