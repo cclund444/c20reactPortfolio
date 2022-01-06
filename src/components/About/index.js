@@ -1,5 +1,5 @@
 import React from 'react';
-import './style.css';
+// import './style.css';
 import Container from 'react-bootstrap/Container';
 import Figure from 'react-bootstrap/Figure';
 
