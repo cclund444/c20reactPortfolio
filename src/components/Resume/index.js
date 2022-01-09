@@ -2,6 +2,8 @@ import React from 'react';
 import Container from 'react-bootstrap/Container';
 import Iframe from 'react-iframe';
 import './style.css';
+import Resume1 from 'src/assets/Resume1.jpg';
+import Resume2 from 'src/assets/Resume2.jpg'
 
 function Resume() {
     return(
@@ -27,16 +29,24 @@ function Resume() {
             </ul>
             
 
-            <h3 className="title">Resume</h3> 
-        <div className="resume">  
-            <Iframe 
-                url="" 
-                width="780px"
-                height="800px"
-                className="resume-doc"
-                />
-        </div>
+            <h3> Resume</h3> 
+            <figure>
+            <Figure.Image
+              width={100}
+              height={125}
+              alt="1"
+              src={Resume1}
+            />
+            </figure>
+            <figure>
+            <Figure.Image
+              width={100}
+              height={125}
+              alt="2"
+              src={Resume2}
+            />
 
+            </figure> 
         </Container>
     );
 }
