@@ -2,8 +2,8 @@ import React from 'react';
 import Container from 'react-bootstrap/Container';
 import Iframe from 'react-iframe';
 import './style.css';
-import Resume1 from 'src/assets/Resume1.jpg';
-import Resume2 from 'src/assets/Resume2.jpg'
+// import Resume1 from 'src/assets/Resume1.jpg';
+// import Resume2 from 'src/assets/Resume2.jpg'
 
 function Resume() {
     return(
@@ -30,7 +30,7 @@ function Resume() {
             
 
             <h3> Resume</h3> 
-            <figure>
+            {/* 
             <Figure.Image
               width={100}
               height={125}
@@ -45,8 +45,8 @@ function Resume() {
               alt="2"
               src={Resume2}
             />
+        */}
 
-            </figure> 
         </Container>
     );
 }
