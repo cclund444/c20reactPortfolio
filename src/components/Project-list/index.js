@@ -10,6 +10,11 @@ const projects = [
         github: 'https://github.com/cclund444/bootcampblues'
     },
     {
+        name: 'FindAShow',
+        link: 'https://p3findashow.herokuapp.com/',
+        github: 'https://github.com/cclund444/P3FindAShow'
+    }
+    {
         name: 'c05workDayScheduler',
         link: 'https://cclund444.github.io/c05workDayScheduler/',
         github: 'https://github.com/cclund444/c05workDayScheduler'

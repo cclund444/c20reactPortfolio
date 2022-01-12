@@ -28,26 +28,8 @@ function Resume() {
                 <li>MongoDB, Mongoose</li>
             </ul>
             
-
             <h3> Resume</h3> 
-            {/* 
-            <Figure.Image
-              width={100}
-              height={125}
-              alt="1"
-              src={Resume1}
-            />
-            </figure>
-            <figure>
-            <Figure.Image
-              width={100}
-              height={125}
-              alt="2"
-              src={Resume2}
-            />
-        */}
-
-        </Container>
+        
     );
 }
 
