@@ -2,7 +2,7 @@
 challenge 20
 
 Purpose:
-
+To display my code experince and examples of products. 
 
 
 Built with:
@@ -30,4 +30,6 @@ image:
 <img src=" " />
 
 Side Setup notes:
+* working on getting npm regestired and pulling up correctly, will get deployment and adress updated soon
+
 
