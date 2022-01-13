@@ -18,7 +18,7 @@ function Portfolio() {
         
         <a href={items.link} target="_blank">
             <body>
-                img src= {`assets/PP1.jpg`,'assets/PP2.jpg', 'assets/PP3.jpg'}/>
+                img src= {`assets/PP1.jpg`,'assets/PP2.jpg', 'assets/PP3.jpg', 'assets/P3.jpg'}/>
                 <p> Link: https://cclund444.github.io/c02codeRefactor/portfolio.html </p>
             </body>
         </a>
