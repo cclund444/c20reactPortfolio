@@ -27,7 +27,7 @@ function About() {
           I hope this finds whoever is reading it doing well. This is a portfolio of my codeing. I am learning and enjoying it. Ask any questions. 
           </p>
           <p class="fs-3">
-          I have obtained a degree from The University of Arizona in; Bachelor Of General Studies Science, Technology, Health and Society Emphasis. I am currently towards the end of a BootCamp through UofA for codeing and web developement. 
+          I have obtained a degree from The University of Arizona in; Bachelor Of General Studies Science, Technology, Health and Society Emphasis. I have also compleated a BootCamp through UofA for codeing and web developement, making myself certified for Full Stack Web Developement. 
           </p>
           </Col>
           </Row>
