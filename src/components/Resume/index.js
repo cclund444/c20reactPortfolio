@@ -30,8 +30,10 @@ function Resume() {
             
             <h3> Resume</h3> 
             <ul>
-                <img src='assets/Resume1.jpg' />
-                <img src='assets/Resume2.jpg' />
+                Images coming soon---Update in progress
+                
+                {/* <img src='assets/Resume1.jpg' />
+                <img src='assets/Resume2.jpg' /> */}
             </ul>
 
         </Container>
