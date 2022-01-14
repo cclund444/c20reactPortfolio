@@ -19,7 +19,7 @@ function Resume() {
                 <li>React</li>
                 <li>Bootstrap/React-Bootstrap</li>
             </ul>
-        <h3>Back-end Technologies</h3>
+                <h3>Back-end Technologies</h3>
             <ul>
                 <li>API</li>
                 <li>Node</li>
@@ -29,8 +29,12 @@ function Resume() {
             </ul>
             
             <h3> Resume</h3> 
-        
-    );
+            <ul>
+                COMING SOON (Being Updated)
+            </ul>
+
+        </Container>
+    )
 }
 
 export default Resume;

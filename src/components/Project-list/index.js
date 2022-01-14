@@ -13,7 +13,7 @@ const projects = [
         name: 'FindAShow',
         link: 'https://powerful-shore-59524.herokuapp.com/#login',
         github: 'https://github.com/cclund444/P3FindAShow'
-    }
+    },
     {
         name: 'c05workDayScheduler',
         link: 'https://cclund444.github.io/c05workDayScheduler/',
