@@ -51,7 +51,7 @@ const projects = [
     },
     {
         name: 'P3FindAShow',
-        link: '',
+        link: 'https://powerful-shore-59524.herokuapp.com/#login',
         github: 'https://github.com/cclund444/P3FindAShow'
     }
 ];
